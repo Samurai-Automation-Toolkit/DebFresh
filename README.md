@@ -2,6 +2,8 @@
 
 A beautiful, professional Bash script that automates the process of updating and upgrading your Linux system. Perfect for routine maintenance with elegant output and robust error handling.
 
+![DebFresh](https://github.com/Samurai-Automation-Toolkit/DebFresh/blob/main/Medias/deb-fresh.jpeg)
+
 ## ✨ Features
 
 - 🎯 **Automated System Updates** - Handles the entire update process in one command
