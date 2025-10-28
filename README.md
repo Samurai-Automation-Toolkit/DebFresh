@@ -25,20 +25,20 @@ A beautiful, professional Bash script that automates the process of updating and
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-organization/system-update-script.git
+git clone https://github.com/Samurai-Automation-Toolkit/DebFresh.git
 
 # Navigate to directory
-cd system-update-script
+cd DebFresh/
 
 # Make script executable
-chmod +x UpDtUpGrd.sh
+chmod +x deb-fresh-launcher.sh
 ```
 
 ### Usage
 
 ```bash
 # Run the script
-./UpDtUpGrd.sh
+bash deb-fresh-launcher.sh
 ```
 
 The script will:
